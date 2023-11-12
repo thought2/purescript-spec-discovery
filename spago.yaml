@@ -10,7 +10,7 @@ package:
   name: spec-discovery
   publish:
     version: 8.2.1
-    license: "Mozilla Public License Version 2.0"
+    license: MPL-2.0
     location:
       githubOwner: "f-o-a-m"
       githubRepo: purescript-optparse
